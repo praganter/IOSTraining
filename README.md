@@ -4,4 +4,4 @@ That repo follows "100 days of Swift" series of Paul Hudson.
 2. Day completed. Topics => arrays, dictionaries, sets, and enums.
 3. Day completed. Topics => operators and conditions.
 4. Day completed. Topics => oops, loops, and more loops.
-5.Day completed. Topics => functions, parameters, and errors
+5. Day completed. Topics => functions, parameters, and errors

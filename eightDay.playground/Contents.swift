@@ -80,11 +80,3 @@ toys.append("Buzz")
 toys.count
 toys.firstIndex(of: "Buzz")
 toys.removeAll()
-
-
-struct User {
-    var name = "Anonymous"
-    var age: Int
-}
-let twostraws = User(name: "Paul", age: 38)
-twostraws.name

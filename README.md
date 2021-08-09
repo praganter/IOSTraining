@@ -7,3 +7,4 @@ That repo follows "100 days of Swift" series of Paul Hudson.
 5. Day completed. Topics => functions, parameters, and errors
 6. Day completed. Topics => Closures, part one
 7. Day completed. Topics => Closures, Closures, part two
+8. Day completed. Topics => Structs, properties, and methods

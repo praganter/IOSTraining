@@ -9,3 +9,4 @@ That repo follows "100 days of SwiftUI" series of Paul Hudson.
 7. Day completed. Topics => Closures, Closures, part two
 8. Day completed. Topics => Structs, properties, and methods
 9. Day completed. Topics => Access control, static properties, and laziness
+10. Day completed. Topics => Classes and inheritance
